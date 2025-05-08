@@ -76,8 +76,8 @@ Implementar um sistema de postagens simples onde **somente usuários administrad
 ### 1. Clone seu fork do repositório
 
 ```bash
-git clone https://github.com/pereirawe/laravel-vue-posts.git
-cd laravel-vue-posts
+git clone https://github.com/pereirawe/test-laravel-vue.git
+cd test-laravel-vue
 ```
 
 ### 2. Suba os containers
