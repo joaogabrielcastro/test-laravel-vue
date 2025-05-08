@@ -127,5 +127,4 @@ docker run --rm \
 
 ---
 
-O Prazo para entrega é de **até dia 13/05/2053**.
 Boa sorte 🚀
